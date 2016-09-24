@@ -1,5 +1,3 @@
-							Group 10 README
-
 Assuming the configaration is done and the workers are up and running, the following commands can be used to run the respective operations:
 
 Geometry Union
